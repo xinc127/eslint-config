@@ -1,0 +1,6 @@
+{
+  "extends": "@xinc127",
+  "plugins": [
+    "xinc127"
+  ]
+}

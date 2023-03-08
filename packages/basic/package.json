@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-basic",
+  "name": "@xinc127/eslint-config-basic",
   "version": "0.36.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "xinc127",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/xinc127/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-antfu": "workspace:*",
+    "eslint-plugin-xinc127": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.27.5",
